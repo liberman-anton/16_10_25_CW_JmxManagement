@@ -1,0 +1,2 @@
+# 16_10_25_CW_JmxManagement
+RmiRegistryFactoryBean, ConnectorServerFactoryBean, MBeanExporter
